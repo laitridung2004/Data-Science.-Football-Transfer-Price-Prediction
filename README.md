@@ -49,11 +49,11 @@ This project demonstrates the potential of data science in revolutionizing talen
 
 ## Project Structure
 
-- **build model +checkpoints**:  
-   Directory containing trained models and checkpoints saved during the training process.
-
 - **data**:  
    Directory containing raw and preprocessed data files used for training and analysis.
+
+- ** model + checkpoints**:  
+   Directory containing trained models and checkpoints saved during the training process.
 
 - **README.md**:  
    Main documentation file explaining the project, its features, structure, and usage instructions.
