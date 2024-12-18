@@ -43,13 +43,23 @@ This project demonstrates the potential of data science in revolutionizing talen
 
 ## Project Structure
 
-- **build model +checkpoints**: Directory for building and saving models, including model training scripts.  
-- **Player_price_prediction_model.ipynb**: Jupyter notebook for training and evaluating football player price prediction models.  
-- **EDA.ipynb**: Notebook for performing **Exploratory Data Analysis** to identify patterns and trends in the dataset.  
-- **Visualization.ipynb**: Notebook for creating visualizations to better understand data relationships and modeling results.  
-- **cleaned_data.csv**: Cleaned and preprocessed dataset used for training models.  
-- **data.csv**: Original raw dataset containing football player transfer data.  
-- **README.md**: Documentation explaining the project, its features, structure, and usage instructions.  
+- **build model +checkpoints**:  
+   Directory containing trained models and checkpoints saved during the training process.
+
+- **data**:  
+   Directory containing raw and preprocessed data files used for training and analysis.
+
+- **README.md**:  
+   Main documentation file explaining the project, its features, structure, and usage instructions.
+
+- **data_crawling.ipynb**:  
+   Jupyter Notebook for collecting data from external sources and storing it in a structured format.
+
+- **data_visualization.ipynb**:  
+   Jupyter Notebook for visualizing and analyzing the data to uncover trends and relationships.
+
+- **exploratory_data_analyst.ipynb**:  
+   Jupyter Notebook for **Exploratory Data Analysis (EDA)** to clean, preprocess, and prepare data for model training.
 
 ***
 
