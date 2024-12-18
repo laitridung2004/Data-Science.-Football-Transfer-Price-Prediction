@@ -4,6 +4,7 @@
 ***
 
 
+
 ## Introduction
 
 In an era where data-driven decisions dominate the sports industry, accurately predicting the market value of football players has become a vital task.
@@ -13,8 +14,9 @@ This project represents our team’s initiative to collect and analyze player da
 Our approach integrates **Python** and popular libraries like Pandas, Matplotlib, Seaborns to work with data, and Scikit - learn for machine learning works.
 
 ***This project is intended for `educational purposes only`. The model's performance is subject to dataset limitations and does not guarantee accurate prediction. It should not be used as a replacement for professional safety measures or health compliance systems.***
-
 ***
+
+
 
 ## Applications
 - Talent scouting and valuation for football clubs.
@@ -22,6 +24,9 @@ Our approach integrates **Python** and popular libraries like Pandas, Matplotlib
 - Analytical insights for agents and market analysts.
 
 This project demonstrates the potential of data science in revolutionizing talent valuation in professional football.
+***
+
+
 
 ## Key Features
 
@@ -38,8 +43,9 @@ This project demonstrates the potential of data science in revolutionizing talen
 - **Model Training and Evaluation:** Prepared data for machine learning by splitting it into training and testing sets using [Scikit-learn](https://scikit-learn.org/stable/) for predictive modeling.
 
 - **Persistence and Deployment:** Saved preprocessed datasets and trained models using [Joblib](https://joblib.readthedocs.io/en/latest/) for efficient reuse in future tasks.
-
 ***
+
+
 
 ## Project Structure
 
@@ -60,8 +66,8 @@ This project demonstrates the potential of data science in revolutionizing talen
 
 - **exploratory_data_analyst.ipynb**:  
    Jupyter Notebook for **Exploratory Data Analysis (EDA)** to clean, preprocess, and prepare data for model training.
-
 ***
+
 
 
 ## Acknowledgments
@@ -72,8 +78,8 @@ We extend our heartfelt gratitude to our lecturers, Professor Than Quang Khoat, 
 Our sincere thanks also go to our professor in the Department for their unwavering support and sharing during the whole course.
 
 Finally, we would like to acknowledge our peers for their indirect contributions, offering both moral and practical support that kept us motivated and
-
 ***
+
 
 
 ## Contributors
@@ -82,8 +88,8 @@ Finally, we would like to acknowledge our peers for their indirect contributions
 - Đỗ Đình Hoàng - 20225445
 - Bùi Văn Huy - 20225497
 - Trịnh Huynh Sơn - 20225526
-
 ***
+
 
 
 ## License
